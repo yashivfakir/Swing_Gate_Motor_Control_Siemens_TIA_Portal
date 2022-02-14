@@ -15,4 +15,4 @@ The gate consists of two motors and two swing gates that open/close in sync with
 - The gate completes the opening/closing action
 4. **Once the gate operation has been completed the gate waits for the next signal to begin opening or closing the gates.**
 
-
+## Repository Contents
