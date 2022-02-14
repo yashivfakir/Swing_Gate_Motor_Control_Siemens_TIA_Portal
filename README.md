@@ -19,3 +19,6 @@ The gate consists of two motors and two swing gates that open/close in sync with
 4. **Once the gate operation has been completed the gate waits for the next signal to begin opening or closing the gates.**
 
 ## Repository Contents
+- Folder: Swing_Gate_Motor_Control: This contains the TIA files generated during implementation
+- README.md: is the current text and outlines the repo and its contents
+- State Machine Diagram.vsdx: This is a Microsoft Viso State machine diagram of the operation of the gate
